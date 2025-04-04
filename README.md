@@ -33,3 +33,6 @@ streamlit run Introduction_to_Streamlit.py
 <p align="center">
    <img src="./images/app_navigation.gif">
 </p>
+
+
+![](./images/neural_network.png)
