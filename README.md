@@ -36,3 +36,4 @@ streamlit run Introduction_to_Streamlit.py
 
 
 ![](./images/neural_network.png)
+<img src="./images/neural_network.png" width="300">
